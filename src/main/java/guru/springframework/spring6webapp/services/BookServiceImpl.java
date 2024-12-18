@@ -1,4 +1,4 @@
-package guru.springframework.spring6webapp.servces;
+package guru.springframework.spring6webapp.services;
 
 import guru.springframework.spring6webapp.domain.Book;
 import guru.springframework.spring6webapp.repositories.BookRepository;
